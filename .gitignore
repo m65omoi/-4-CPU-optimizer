@@ -1,0 +1,14 @@
+# Build output and intermediate files
+*.obj
+*.exp
+*.lib
+*.pdb
+*.ilk
+
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj*
+
+# Game-generated runtime logs
+*.log
